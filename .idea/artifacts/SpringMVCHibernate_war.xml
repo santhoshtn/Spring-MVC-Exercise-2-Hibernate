@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="SpringMVCHibernate.war">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringMVCHibernate_war</output-path>
+    <root id="root">
+      <element id="archive" name="SpringMVCLogin.war" />
+    </root>
+  </artifact>
+</component>
